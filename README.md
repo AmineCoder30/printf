@@ -240,4 +240,4 @@ All the above options work well together.
 ### Authors &copy;
 
 - Amine Mohamed
-- Aicha Lahniti
+- Aicha Lahnite
