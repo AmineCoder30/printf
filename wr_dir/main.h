@@ -33,7 +33,7 @@ typedef struct printHandler
 	int (*f)(va_list ap, t_flgs *f);
 } ph;
 
-/* function exist in printNums file */
+/* function exist in printNums */
 int printInt(va_list l, t_flgs *f);
 void printNum(int n);
 int printUnNum(va_list l, t_flgs *f);
