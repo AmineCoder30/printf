@@ -3,7 +3,7 @@
 /**
  * convert - funtion thatconverts number into string
  * @number: varibale = input number
- * @base: varibale = input base
+ * @bas: varibale = input base
  * @lcase:varibale = flag if hexa values need to be lowercase
  * Return: result string
  * Authors: amine mohamed and aicha

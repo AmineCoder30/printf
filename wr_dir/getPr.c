@@ -4,7 +4,7 @@
  * getPr - selects the right printing function
  * depending on the conversion specifier passed to _printf
  * @s: varibale = character that holds the conversion specifier
- * Description: select the function that will be excuted 
+ * Description: select the function that will be excuted
  * Return: a pointer to the matching printing function
  * Authors:amine mohamed and aicha lahnite
  */

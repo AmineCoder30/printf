@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * printInt - prints an integer function 
+ * printInt - prints an integer function
  * @l: varibale for va_list of arguments from _printf
  * @f: varibale for pointer to the struct flags determining
  * if a flag is passed to _printf
@@ -23,7 +23,7 @@ int printInt(va_list l, t_flgs *f)
 }
 
 /**
- * printNum - prints an unsigned integer function 
+ * printNum - prints an unsigned integer function
  * @l: varibale for va_list of arguments from _printf
  * @f: varibale for pointer to the struct flags determining
  * if a flag is passed to _printf
